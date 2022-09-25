@@ -28,4 +28,4 @@ public class Take_Array2 {
         difference.computeDifference();
         System.out.print(difference.maximumDifference);
     }
-}
+} 
